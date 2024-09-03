@@ -4,7 +4,7 @@ const initialState = {
     buttons: [
         { id: 1, label: 'Compound interest(Daily)' },
         { id: 2, label: 'Compound interest' },
-        { id: 3, label: 'Loan calculator' },
+        { id: 3, label: 'simple calculator' },
         { id: 4, label: 'Loan calculator' },
         { id: 5, label: 'Loan calculator' },
         { id: 6, label: 'Loan calculator' },
